@@ -1,22 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,50:3D2314,100:6B3F2A&height=140&section=header&text=Abhishek%20Tiwari&fontColor=F5E6D3&fontSize=42&fontAlignY=62&fontAlign=50&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=82&descSize=17&descColor=C49A6C" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1311,50:3D2314,100:6B3F2A&height=150&section=header&text=Abhishek%20Tiwari&fontColor=F5E6D3&fontSize=46&fontAlignY=60&fontAlign=50&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=80&descSize=18&descColor=C49A6C" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=C49A6C&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Frontend+Dev+crafting+pixel-perfect+UIs;React+%7C+TypeScript+%7C+learning+Angular;Coffee+%E2%98%95+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=C49A6C&center=true&vCenter=true&width=680&lines=Hey!+I'm+Abhishek+%F0%9F%91%8B+%E2%80%94+nice+to+meet+you;Frontend+Dev+crafting+pixel-perfect+UIs+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+learning+Angular;Coffee+%E2%98%95+%2B+Beer+%F0%9F%8D%BA+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+open+to+cool+collabs+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C49A6C?style=for-the-badge&logo=linkedin&logoColor=1E1311&labelColor=6B3F2A)](https://linkedin.com/in/itz-abhishek-tiwari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itz-abhishek-tiwari)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-C49A6C?style=for-the-badge&logo=youtube&logoColor=1E1311&labelColor=6B3F2A)](https://youtube.com/@ItzAbhishekTiwari)
+[![YouTube](https://img.shields.io/badge/YouTube-%40ItzAbhishekTiwari-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ItzAbhishekTiwari)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-C49A6C?style=for-the-badge&logo=github&logoColor=1E1311&labelColor=6B3F2A)](https://github.com/Itz-Abhishek-Tiwari)
+[![GitHub](https://img.shields.io/badge/GitHub-Itz--Abhishek--Tiwari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itz-Abhishek-Tiwari)
 &nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=1E1311&labelColor=6B3F2A)](https://open.spotify.com/user/31jf5oy4cvitkd5iqqjbmg6tpqjy)
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jf5oy4cvitkd5iqqjbmg6tpqjy)
 
 </div>
 
@@ -26,45 +22,46 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
 ```yaml
-name:     Abhishek Tiwari
-location: India 🇮🇳
-role:     Frontend Developer
-focus:    React.js · TypeScript · UI/UX
-learning: Angular · Advanced TypeScript
-backend:  Python · Django
-editor:   Vim (yes, really)
-os:       Linux
-hobbies:
-  - Building clean UIs
-  - Open source contributions
-  - Music + Lo-fi while coding
-  - Overthinking variable names
+name      : Abhishek Tiwari
+location  : India 🇮🇳
+role      : Frontend Developer
+stack     : React · TypeScript · Tailwind
+exploring : Angular · RxJS · Design Systems
+backend   : Python · Django
+editor    : Vim (no regrets)
+os        : Linux btw 🐧
+vibe      :
+  ☕ Coffee at sunrise
+  🍺 Beer after a big PR
+  🎵 Lo-fi on repeat
+  🌙 Darkmode everything
 ```
 
 </td>
-<td width="45%" align="center">
-
-**🔭 Currently Building**
-<br/>
-
-> Polished React apps with a focus on performance, accessibility & great DX
+<td width="48%" valign="top" align="center">
 
 <br/>
 
-**🌱 Currently Learning**
-<br/>
-
-> Angular · RxJS · Design Systems
+🔭 **Currently Building**
+> Polished React apps focused on performance, accessibility & great DX
 
 <br/>
 
-**💬 Ask Me About**
+🌱 **Currently Learning**
+> Angular · RxJS · Advanced TypeScript patterns
+
 <br/>
 
-> React · CSS architecture · Frontend tooling
+💬 **Ask Me About**
+> React · CSS architecture · Frontend tooling · Vim config
+
+<br/>
+
+⚡ **Fun Fact**
+> I debug faster after a 🍺... allegedly
 
 </td>
 </tr>
@@ -76,16 +73,17 @@ hobbies:
 
 <div align="center">
 
-**Languages**
-
+**Languages**<br/>
 [![Skills](https://skillicons.dev/icons?i=js,ts,python&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+<br/>
 
+**Frontend**<br/>
 [![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-**Backend & Tools**
+<br/>
 
+**Backend & Tools**<br/>
 [![Skills](https://skillicons.dev/icons?i=django,linux,git,github,vim&theme=dark)](https://skillicons.dev)
 
 </div>
