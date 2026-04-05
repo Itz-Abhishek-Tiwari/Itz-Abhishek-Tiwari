@@ -20,52 +20,21 @@
 
 ## ☕ About Me
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<div align="center">
 
-```yaml
-name      : Abhishek Tiwari
-location  : India 🇮🇳
-role      : Frontend Developer
-stack     : React · TypeScript · Tailwind
-exploring : Angular · RxJS · Design Systems
-backend   : Python · Django
-editor    : Vim (no regrets)
-os        : Linux btw 🐧
-vibe      :
-  ☕ Coffee at sunrise
-  🍺 Beer after a big PR
-  🎵 Lo-fi on repeat
-  🌙 Darkmode everything
-```
+| | |
+|:---:|:---|
+| 🌍 | Based in **India** |
+| 💼 | **Frontend Developer** — React · TypeScript · Tailwind |
+| 📐 | Currently learning **Angular** & levelling up on RxJS |
+| 🛠️ | Backend when needed — **Python · Django** |
+| 🐧 | Runs **Linux**, lives in **Vim** |
+| 🎵 | Lo-fi playlists while shipping code |
+| ☕ | Powered by coffee at sunrise |
+| 🍺 | Beer after a big PR merge |
+| ⚡ | Fun fact: I debug faster after a cold one... allegedly |
 
-</td>
-<td width="48%" valign="top" align="center">
-
-<br/>
-
-🔭 **Currently Building**
-> Polished React apps focused on performance, accessibility & great DX
-
-<br/>
-
-🌱 **Currently Learning**
-> Angular · RxJS · Advanced TypeScript patterns
-
-<br/>
-
-💬 **Ask Me About**
-> React · CSS architecture · Frontend tooling · Vim config
-
-<br/>
-
-⚡ **Fun Fact**
-> I debug faster after a 🍺... allegedly
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -94,21 +63,21 @@ vibe      :
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Abhishek-Tiwari&show_icons=true&hide_border=true&bg_color=1E1311&title_color=C49A6C&icon_color=C49A6C&text_color=F5E6D3&rank_icon=github" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Abhishek-Tiwari&show_icons=true&hide_border=true&bg_color=00000000&title_color=C49A6C&icon_color=C49A6C&text_color=F5E6D3&rank_icon=github" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Abhishek-Tiwari&layout=compact&hide_border=true&bg_color=1E1311&title_color=C49A6C&text_color=F5E6D3&langs_count=6" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Abhishek-Tiwari&layout=compact&hide_border=true&bg_color=00000000&title_color=C49A6C&text_color=F5E6D3&langs_count=6" height="170" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Itz-Abhishek-Tiwari&hide_border=true&background=1E1311&stroke=6B3F2A&ring=C49A6C&fire=D4824A&currStreakLabel=C49A6C&sideLabels=F5E6D3&dates=8B7355&currStreakNum=F5E6D3&sideNums=F5E6D3" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Itz-Abhishek-Tiwari&hide_border=true&background=00000000&stroke=6B3F2A&ring=C49A6C&fire=D4824A&currStreakLabel=C49A6C&sideLabels=F5E6D3&dates=8B7355&currStreakNum=F5E6D3&sideNums=F5E6D3" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-Abhishek-Tiwari&bg_color=1E1311&color=C49A6C&line=6B3F2A&point=C49A6C&hide_border=true&area=true&area_color=3D2314&radius=6" alt="Activity Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz-Abhishek-Tiwari&bg_color=00000000&color=C49A6C&line=6B3F2A&point=C49A6C&hide_border=true&area=true&area_color=3D2314&radius=6" alt="Activity Graph" width="95%" />
 
 </div>
 
