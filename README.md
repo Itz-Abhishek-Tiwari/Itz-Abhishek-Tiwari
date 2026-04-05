@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Itz-Abhishek-Tiwari&show_icons=true&hide_border=true&bg_color=1E1311&title_color=C49A6C&icon_color=C49A6C&text_color=F5E6D3&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Abhishek-Tiwari&show_icons=true&hide_border=true&bg_color=1E1311&title_color=C49A6C&icon_color=C49A6C&text_color=F5E6D3&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Abhishek-Tiwari&layout=compact&hide_border=true&bg_color=1E1311&title_color=C49A6C&text_color=F5E6D3&langs_count=6" height="165" alt="Top Languages" />
 
