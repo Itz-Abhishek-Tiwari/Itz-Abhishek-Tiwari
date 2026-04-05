@@ -87,11 +87,7 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Itz-Abhishek-Tiwari/Itz-Abhishek-Tiwari/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> **Note:** The snake runs via [GitHub Actions](.github/workflows/snake.yml). Push the workflow below to activate it.
-
 </div>
-
----
 
 <div align="center">
 
